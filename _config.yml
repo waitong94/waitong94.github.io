@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: BDHU/minimalist
 title: Wai Tong Chung
 logo: ./profile_round.png
 sidebar:
