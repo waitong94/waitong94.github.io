@@ -16,4 +16,6 @@ sidebar:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/waitong94
-  
+  - name: wtchung@stanford.edu
+    icon: <i class="fa-brands fa-gmail"></i>
+    link: wtchung@stanford.edu
