@@ -1,5 +1,7 @@
 remote_theme: BDHU/minimalist
+color-scheme: auto/light
 title: Wai Tong Chung
+description: 
 logo: ./profile_round.png
 sidebar:
   - name: Google Scholar
