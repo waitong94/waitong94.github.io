@@ -1,7 +1,7 @@
 ## About Me
 I'm a PhD Student at Stanford University. My research improves our scientific understanding of clean energy systems and rocket propulsion with state-of-the-art **Machine Learning**, **High-Performance Computing**, and **Predictive Modeling** techniques.
 
-## Conference Proceedings and Publications
+## Selected Proceedings and Publications
 W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Accelerating High-fidelity Combustion Simulations with Classification Algorithms. In: _Proc. AAAI Spring Symp. Combin. Artif. Intell. Mach. Learn. Phys. Scien._ (2021). [<i class="fa-solid fa-file-pdf"></i>](http://ceur-ws.org/Vol-2964/article_196.pdf)
 
 W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Random Forests for Accelerating Turbulent Combustion Simulations. In: _NeurIPS Mach. Learn. Phys. Scien. Workshop_ (2020). [<i class="fa-solid fa-file-pdf"></i>](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_81.pdf)
