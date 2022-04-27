@@ -19,8 +19,8 @@ I am grateful to my research collaborators at Stanford University, SLAC National
 
 Thank you to the following funding sources for making my research possible:
 - Stanford Engineering Fellowship
-- U.S. Depart of Energy, Office of Energy Efficiency & Renewable Energy
-- U.S. Depart of Energy, National Nuclear Security Administration
+- U.S. Department of Energy, Office of Energy Efficiency & Renewable Energy
+- U.S. Department of Energy, National Nuclear Security Administration
 - U.S. Air Force Office of Scientific Research
 - German Aerospace Center
 
