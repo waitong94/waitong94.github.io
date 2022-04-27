@@ -1,5 +1,5 @@
 ## About Me
-I'm a PhD Student at Stanford University. My research improves our scientific understanding of clean energy systems and rocket propulsion with state-of-the-art **Machine Learning**, **High-Performance Computing**, and **Predictive Modeling** techniques.
+I'm a PhD Student at Stanford University. My research improves our scientific understanding of clean energy systems and rocket propulsion with state-of-the-art **Machine Learning**, **High-Performance Computing**, and **Predictive Modeling** techniques. Previously, I obtained my BEng/MEng in Mechanical Engineering from Imperial College London, and briefly worked as a Software Engineer in JPMorgan Chase & Co. 
 
 ## Selected Proceedings and Publications
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Accelerating High-fidelity Combustion Simulations with Classification Algorithms. In: _Proc. AAAI Spring Symp. Combin. Artif. Intell. Mach. Learn. Phys. Scien._ (2021).](http://ceur-ws.org/Vol-2964/article_196.pdf)
