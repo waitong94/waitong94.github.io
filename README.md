@@ -8,7 +8,7 @@ I'm a PhD Student at Stanford University. My research improves our scientific un
 
 [<i class="fa-solid fa-file-pdf"></i> M. Ihme, W.T. Chung, A.A. Mishra, Combustion Machine Learning: Principles, Progress, and Prospects, _Prog. Energy Combust. Sci._ 91 (2022) pp. 101010.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/ihme2022ml.pdf)
 
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra,  M. Ihme, Interpretable Data-driven Methods for Subgrid-scale Closure in LES for Transcritical LOX/GCH4 Combustion, _Combust. Flame_ 239(2022) pp. 111758.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021sgs.pdf) 
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra,  M. Ihme, Interpretable Data-driven Methods for Subgrid-scale Closure in LES for Transcritical LOX/GCH4 Combustion, _Combust. Flame_ 239 (2022) pp. 111758.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021sgs.pdf) 
     
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Data-assisted Combustion Simulations with Dynamic Submodel Assignment using Random Forests, _Combust. Flame_  227  (2021) pp. 172-185.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021data.pdf) 
 
