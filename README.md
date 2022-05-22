@@ -2,9 +2,9 @@
 I'm a PhD Student at Stanford University. My research improves our scientific understanding of rocket propulsion and novel energy systems with state-of-the-art **Machine Learning**, **High-Performance Computing**, and **Predictive Modeling** techniques. 
 
 ## Selected Proceedings and Publications
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Accelerating High-fidelity Combustion Simulations with Classification Algorithms. In: _Proc. AAAI Spring Symp. Combin. Artif. Intell. Mach. Learn. Phys. Scien._ (AAAI MLPS), 2021.](http://ceur-ws.org/Vol-2964/article_196.pdf)
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Accelerating High-fidelity Combustion Simulations with Classification Algorithms. In: _Proc. AAAI Spring Symp. Combin. Artif. Intell. Mach. Learn. Phys. Scien. (AAAI MLPS)_, 2021.](http://ceur-ws.org/Vol-2964/article_196.pdf)
 
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Random Forests for Accelerating Turbulent Combustion Simulations. In: _NeurIPS Mach. Learn. Phys. Scien. Workshop_ (NeurIPS ML4PS), 2020.](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_81.pdf)
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Random Forests for Accelerating Turbulent Combustion Simulations. In: _NeurIPS Mach. Learn. Phys. Scien. Workshop (NeurIPS ML4PS)_, 2020.](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_81.pdf)
 
 [<i class="fa-solid fa-file-pdf"></i> M. Ihme, W.T. Chung, A.A. Mishra, Combustion Machine Learning: Principles, Progress, and Prospects, _Prog. Energy Combust. Sci._ 91 (2022) pp. 101010.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/ihme2022ml.pdf)
 
