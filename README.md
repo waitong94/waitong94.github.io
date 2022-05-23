@@ -6,13 +6,13 @@ I'm a PhD Student at Stanford University. My research improves our scientific un
 
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Random Forests for Accelerating Turbulent Combustion Simulations. In: _NeurIPS Mach. Learn. Phys. Scien. Workshop (NeurIPS ML4PS)_, 2020.](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_81.pdf)
 
-[<i class="fa-solid fa-file-pdf"></i> M. Ihme, W.T. Chung, A.A. Mishra, Combustion Machine Learning: Principles, Progress, and Prospects, _Prog. Energy Combust. Sci._ 91 (2022) pp. 101010.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/ihme2022ml.pdf)
+[<i class="fa-solid fa-file-pdf"></i> M. Ihme, W.T. Chung, A.A. Mishra, Combustion Machine Learning: Principles, Progress, and Prospects, _Prog. Energy Combust. Sci._ 91:101010, 2022.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/ihme2022ml.pdf)
 
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra,  M. Ihme, Interpretable Data-driven Methods for Subgrid-scale Closure in LES for Transcritical LOX/GCH4 Combustion, _Combust. Flame_ 239 (2022) pp. 111758.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021sgs.pdf) 
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra,  M. Ihme, Interpretable Data-driven Methods for Subgrid-scale Closure in LES for Transcritical LOX/GCH4 Combustion, _Combust. Flame_ 239:111758., 2022](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021sgs.pdf) 
     
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Data-assisted Combustion Simulations with Dynamic Submodel Assignment using Random Forests, _Combust. Flame_  227  (2021) pp. 172-185.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021data.pdf) 
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Data-assisted Combustion Simulations with Dynamic Submodel Assignment using Random Forests, _Combust. Flame_  227:172-185, 2021](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021data.pdf) 
 
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, P.C. Ma, M. Ihme, Examination of Diesel Spray Combustion in Supercritical Ambient Fluid using Large-eddy Simulations, _Int. J. Engine Res._ 21(1) (2020) pp. 122–133.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2019examination.pdf) 
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, P.C. Ma, M. Ihme, Examination of Diesel Spray Combustion in Supercritical Ambient Fluid using Large-eddy Simulations, _Int. J. Engine Res._ 21(1):122–133, 2020](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2019examination.pdf) 
 
 ## Acknowledgments
 I am grateful to my research collaborators at Stanford University, SLAC National Accelerator Laboratory, and Technical University of Munich. 
