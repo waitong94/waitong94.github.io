@@ -1,5 +1,9 @@
 ## About Me
-I'm a PhD Student at Stanford University, and Graduate Fellow at the Stanford Insitute for Human-Centered AI. My research improves our scientific understanding of rocket propulsion and novel energy systems with state-of-the-art **Machine Learning**, **High-Performance Computing**, and **Predictive Modeling** techniques. 
+I'm a PhD Student at Stanford University, and Graduate Fellow at the Stanford Insitute for Human-Centered AI. 
+
+My research improves our scientific understanding of rocket propulsion and novel energy systems with state-of-the-art **Machine Learning**, **High-Performance Computing**, and **Predictive Modeling** techniques. 
+
+I also curate terabytes of high-fidelity 3D fluid data at https://blastnet.github.io/.
 
 ## Selected Proceedings and Publications
 
@@ -25,7 +29,7 @@ I'm a PhD Student at Stanford University, and Graduate Fellow at the Stanford In
 <!-- [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, P.C. Ma, M. Ihme, Examination of Diesel Spray Combustion in Supercritical Ambient Fluid using Large-eddy Simulations, _Int. J. Engine Res._ 21(1):122–133, 2020.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2019examination.pdf)  -->
 
 ## Acknowledgments
-I am grateful to my research collaborators at Stanford, SLAC, TUM, LLNL, Sandia, UniMelb, UConn, and PolyMontréal. 
+I am grateful to my research collaborators at Stanford, SLAC, TUM, NASA, LLNL, Sandia, UniMelb, UConn, and PolyMontréal. 
 
 Thank you to the following funding sources for making my research possible:
 - Stanford Engineering Fellowship
