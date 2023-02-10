@@ -7,7 +7,7 @@ I also curate terabytes of high-fidelity 3D fluid data at https://blastnet.githu
 
 ## Selected Proceedings and Publications
 
-[<i class="fa-solid fa-file-pdf"></i> W. T. Chung, K. S. Jung, J. H. Chen, M. Ihme. _The Bearable Lightness of Big Data: Towards Massive Public Datasets in Scientific Machine Learning. In _ICML AI Scien. W. (ICML AI4Science)_, 2022.](https://openreview.net/pdf?id=LxGTZM7L6qn)
+[<i class="fa-solid fa-file-pdf"></i> W. T. Chung, K. S. Jung, J. H. Chen, M. Ihme. The Bearable Lightness of Big Data: Towards Massive Public Datasets in Scientific Machine Learning. In _ICML AI Scien. W. (ICML AI4Science)_, 2022.](https://openreview.net/pdf?id=LxGTZM7L6qn)
 
 
 [<i class="fa-solid fa-file-pdf"></i> D. Wu, W.T. Chung, M. Ihme, ML4LM: Machine Learning for Safely Landing on Mars. In: _NeurIPS Mach. Learn. Phys. Scien. Workshop (NeurIPS ML4PS)_, 2022.](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_110.pdf)
