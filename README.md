@@ -25,10 +25,11 @@ I'm a PhD Student at Stanford University, and Graduate Fellow at the Stanford In
 <!-- [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, P.C. Ma, M. Ihme, Examination of Diesel Spray Combustion in Supercritical Ambient Fluid using Large-eddy Simulations, _Int. J. Engine Res._ 21(1):122–133, 2020.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2019examination.pdf)  -->
 
 ## Acknowledgments
-I am grateful to my research collaborators at Stanford University, SLAC National Accelerator Laboratory, and Technical University of Munich. 
+I am grateful to my research collaborators at Stanford, SLAC, TUM, LLNL, Sandia, UniMelb, UConn, and PolyMontréal. 
 
 Thank you to the following funding sources for making my research possible:
 - Stanford Engineering Fellowship
+- Stanford Institute for Human-Centred AI Fellowship
 - U.S. Department of Energy, Office of Energy Efficiency & Renewable Energy
 - U.S. Department of Energy, National Nuclear Security Administration
 - U.S. Air Force Office of Scientific Research
