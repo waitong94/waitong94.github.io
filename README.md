@@ -3,10 +3,10 @@ I'm a PhD Student at Stanford University, and Graduate Fellow at the Stanford In
 
 ## Selected Proceedings and Publications
 
-[<i class="fa-solid fa-file-pdf"></i> W. T. Chung, K. S. Jung, J. H. Chen, M. Ihme. The Bearable Lightness of Big Data: Towards Massive Public Datasets in Scientific Machine Learning. In *ICML 2022 2nd AI for Science Workshop*.](https://openreview.net/pdf?id=LxGTZM7L6qn)
+[<i class="fa-solid fa-file-pdf"></i> W. T. Chung, K. S. Jung, J. H. Chen, M. Ihme. _The Bearable Lightness of Big Data: Towards Massive Public Datasets in Scientific Machine Learning. In _ICML AI Scien. W. (ICML AI4Science)_, 2022.](https://openreview.net/pdf?id=LxGTZM7L6qn)
 
 
-[<i class="fa-solid fa-file-pdf"></i> D. Wu, W.T. Chung, M. Ihme, ML4LM: Machine Learning for Safely Landing on Mars. In: _NeurIPS Mach. Learn. Phys. Scien. Workshop (NeurIPS ML4PS), 2022.](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_110.pdf)
+[<i class="fa-solid fa-file-pdf"></i> D. Wu, W.T. Chung, M. Ihme, ML4LM: Machine Learning for Safely Landing on Mars. In: _NeurIPS Mach. Learn. Phys. Scien. Workshop (NeurIPS ML4PS)_, 2022.](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_110.pdf)
 
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Accelerating High-fidelity Combustion Simulations with Classification Algorithms. In: _Proc. AAAI Spring Symp. Combin. Artif. Intell. Mach. Learn. Phys. Scien. (AAAI MLPS)_, 2021.](http://ceur-ws.org/Vol-2964/article_196.pdf)
 
