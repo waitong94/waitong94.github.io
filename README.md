@@ -3,7 +3,7 @@ I'm a PhD Student at Stanford University, and Graduate Fellow at the Stanford In
 
 My research improves our scientific understanding of rocket propulsion and novel energy systems with state-of-the-art **Machine Learning**, **High-Performance Computing**, and **Predictive Modeling** techniques. 
 
-I also curate terabytes of high-fidelity 3D fluid data at https://blastnet.github.io/.
+I also curate terabytes of high-fidelity 3D fluid data at [https://blastnet.github.io/](https://blastnet.github.io/).
 
 ## Selected Proceedings and Publications
 
