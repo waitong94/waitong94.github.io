@@ -5,7 +5,7 @@ My research improves our scientific understanding of rocket propulsion and novel
 
 I also curate terabytes of high-fidelity 3D fluid data at [<ins>https://blastnet.github.io/</ins>](https://blastnet.github.io/).
 
-Check out my [CV](WTChung_CV_2023.pdf) for more detailed info.
+Check out my [<ins>CV</ins>](WTChung_CV_2023.pdf) for more detailed info.
 
 ## Click on my Publications
 
