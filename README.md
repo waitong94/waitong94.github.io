@@ -9,14 +9,14 @@ Check out my [<ins>CV</ins>](WTChung_CV_2023.pdf) for more detailed info.
 
 ## Click on my Selected Publications<sup>*</sup>
 
-[<i class="fa-solid fa-file-pdf"></i> W. T. Chung, K. S. Jung, J. H. Chen, M. Ihme. The Bearable Lightness of Big Data: Towards Massive Public Datasets in Scientific Machine Learning. In _ICML AI Scien. W. (ICML AI4Science)_, 2022.](https://openreview.net/pdf?id=LxGTZM7L6qn)
+[<i class="fa-solid fa-file-pdf"></i> W. T. Chung, K. S. Jung, J. H. Chen, M. Ihme. The Bearable Lightness of Big Data: Towards Massive Public Datasets in Scientific Machine Learning. In _ICML AI Sci. W. (ICML AI4Science)_, 2022.](https://openreview.net/pdf?id=LxGTZM7L6qn)
 
 
-[<i class="fa-solid fa-file-pdf"></i> D.D. Wu, W.T. Chung, M. Ihme, ML4LM: Machine Learning for Safely Landing on Mars. In: _NeurIPS Mach. Learn. Phys. Scien. W. (NeurIPS ML4PS)_, 2022.](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_110.pdf)
+[<i class="fa-solid fa-file-pdf"></i> D.D. Wu, W.T. Chung, M. Ihme, ML4LM: Machine Learning for Safely Landing on Mars. In: _NeurIPS Mach. Learn. Phys. Sci. W. (NeurIPS ML4PS)_, 2022.](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_110.pdf)
 
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Accelerating High-fidelity Combustion Simulations with Classification Algorithms. In: _Proc. AAAI Spring Symp. Combin. Artif. Intell. Mach. Learn. Phys. Sci. (AAAI MLPS)_, 2021.](http://ceur-ws.org/Vol-2964/article_196.pdf)
 
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Random Forests for Accelerating Turbulent Combustion Simulations. In: _NeurIPS Mach. Learn. Phys. Scien. Workshop (NeurIPS ML4PS)_, 2020](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_81.pdf)
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme, Random Forests for Accelerating Turbulent Combustion Simulations. In: _NeurIPS Mach. Learn. Phys. Sci. Workshop (NeurIPS ML4PS)_, 2020](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_81.pdf)
 
 
 [<i class="fa-solid fa-file-pdf"></i> W. T. Chung, K. S. Jung, J. H. Chen & M. Ihme. BLASTNet: A Call for Community-Involved Big Data in Combustion Machine Learning. _Appl. Energy Combust. Sci. 12:100087_, 2022.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2022blastnet.pdf)
