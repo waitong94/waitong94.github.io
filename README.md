@@ -37,7 +37,7 @@ I am grateful to my research collaborators at Stanford, SLAC, TUM, NASA, LLNL, S
 
 Thank you to the following funding sources for making my research possible:
 - Stanford Engineering Fellowship
-- Stanford Institute for Human-Centred AI Fellowship
+- Stanford Institute for Human-Centred AI Graduate Fellowship
 - U.S. Department of Energy, Office of Energy Efficiency & Renewable Energy
 - U.S. Department of Energy, National Nuclear Security Administration
 - U.S. Air Force Office of Scientific Research
