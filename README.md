@@ -1,7 +1,7 @@
 ## About Me
 I'm a PhD Student at Stanford University, and Graduate Fellow at the Stanford Institute for Human-Centered AI. 
 
-My research improves our scientific understanding of rocket propulsion and novel energy systems with **Machine Learning**, **AI4Science**, and **High-Performance Computing** techniques. 
+My research improves our scientific understanding of rocket propulsion and novel energy systems with **Machine Learning**, **AI for Science**, and **High-Performance Computing** techniques. 
 
 I also curate terabytes of high-fidelity 3D fluid data at [<ins>https://blastnet.github.io/</ins>](https://blastnet.github.io/).
 
