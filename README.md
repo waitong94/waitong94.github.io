@@ -9,6 +9,8 @@ Check out my [<ins>CV</ins>](WTChung_CV_2023.pdf) for more detailed info.
 
 ## Click on my Selected Publications<sup>*</sup>
 
+[<i class="fa-solid fa-file-pdf"></i> P. Sharma, W.T. Chung, B. Akoush, M. Ihme. A Review of Physics-informed ML in Fluid Mechanics. _Energies_ 16(5):2343, 2023.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/sharma2023physics.pdf)
+
 [<i class="fa-solid fa-file-pdf"></i> W. T. Chung, K. S. Jung, J. H. Chen, M. Ihme. The Bearable Lightness of Big Data: Towards Massive Public Datasets in Scientific Machine Learning. In _ICML AI Sci. W. (ICML AI4Science)_, 2022.](https://openreview.net/pdf?id=LxGTZM7L6qn)
 
 
