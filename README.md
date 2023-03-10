@@ -13,9 +13,9 @@ My research at Stanford involves exploring the application of AI/ML in solving c
 
 In particular, my research focuses on two core themes:
 
-**1. Building accurate and cost-efficient predictive models for large-scale computing systems:**
+**1. Building accurate and cost-efficient predictive models for/with large-scale computing systems:**
 
-Solving turbulence remains one of the grand challenges in classical physics and mechanics [[<ins>info</ins>](https://science.osti.gov/-/media/ascr/pdf/program-documents/docs/Hecrtf.pdf)], and research typically involves creating precise simulations using **peta-scale high performance computing** systems. In my research, I use AI to **discover models** that can fill gaps in our understanding of turbulence  [[<ins>info</ins>](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021sgs.pdf)].  The complexity of the problem can be especially pronounced when thousands of chemical species are considered within the turbulent flows, leading to significant computational challenges. To address these challenges, part of my research involves developing AI/ML techniques that can **accelerate** costly aspects of **computation** [[<ins>info</ins>](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021data.pdf)].
+Solving turbulence remains one of the grand challenges in classical physics and mechanics [[<ins>info</ins>](https://science.osti.gov/-/media/ascr/pdf/program-documents/docs/Hecrtf.pdf)], and research typically involves creating precise simulations using **peta-/exa-scale high performance computing** systems [[info](https://insieme.stanford.edu/)]. In my research, I use AI to **discover models** that can fill gaps in our understanding of turbulent phenomena  [[<ins>info</ins>](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021sgs.pdf)].  The complexity of these problems can be especially pronounced when thousands of chemical species are considered within the turbulent flows, leading to significant computational challenges. To address these challenges, part of my research involves developing AI/ML techniques that can **accelerate** costly aspects of **computation** [[<ins>info</ins>](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021data.pdf)].
 
 **2. Addressing gaps in data accessibility/availability in new areas of ML research:**
 
@@ -55,9 +55,9 @@ I am grateful to my research collaborators at Stanford, SLAC, TUM, NASA, LLNL, S
 Thank you to the following funding sources for making my research possible:
 - Stanford Engineering Fellowship
 - Stanford Institute for Human-Centred AI Graduate Fellowship
+- Predictive Science Academic Alliance Program.
 - U.S. Department of Energy, Office of Energy Efficiency & Renewable Energy
 - U.S. Department of Energy, National Nuclear Security Administration
-- U.S. Air Force Office of Scientific Research
 - German Aerospace Center
 
 
