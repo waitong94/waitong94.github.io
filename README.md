@@ -7,7 +7,7 @@ I also curate terabytes of high-fidelity 3D fluid data at [[<ins>https://blastne
 
 Check out my [[<ins>CV</ins>](WTChung_CV_2023.pdf)] for more detailed info.
 
-## Research Statement
+## Research Overview
 
 My research at Stanford involves exploring the application of AI/ML in solving complex problems in turbulent reacting flows. These phenomena have significant implications for critical applications such as **rocket propulsion**, **wildfires**, and **energy** systems. This field of work not only improves our understanding of these important phenomena, but also presents exciting scientific challenges for those inclined towards computational work.
 
