@@ -3,9 +3,9 @@ I'm a PhD Student at Stanford University, and Graduate Fellow at the Stanford In
 
 My research improves our scientific understanding of rocket propulsion and novel energy systems with **Machine Learning**, **AI for Science**, and **High-Performance Computing** techniques. 
 
-I also curate terabytes of high-fidelity 3D fluid data at [<ins>https://blastnet.github.io/</ins>](https://blastnet.github.io/).
+I also curate terabytes of high-fidelity 3D fluid data at [[<ins>https://blastnet.github.io/</ins>](https://blastnet.github.io/)].
 
-Check out my [<ins>CV</ins>](WTChung_CV_2023.pdf) for more detailed info.
+Check out my [[<ins>CV</ins>](WTChung_CV_2023.pdf)] for more detailed info.
 
 ## Research Statement
 
