@@ -7,6 +7,14 @@ I also curate terabytes of high-fidelity 3D fluid data at [<ins>https://blastnet
 
 Check out my [<ins>CV</ins>](WTChung_CV_2023.pdf) for more detailed info.
 
+## Research Statement
+
+My research at Stanford involves applying AI/ML to solving problems in turbulent reacting flows. These are important phenomena since they are found in rocket propulsion, wildfires, and energy systems. Not only is this study important, it is also highly interesting for anyone that loves a good scientific challenge. 
+
+Solving turbulence remains one of the grand challenges in classical physics and mechanics [[<ins>info</ins>](https://science.osti.gov/-/media/ascr/pdf/program-documents/docs/Hecrtf.pdf)], and research typically involves creating precise simulations using peta-scale high performance computing systems. Part of my research involves using AI to discover models that address the gaps in our capabilities in understanding turbulence [[<ins>info</ins>](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021sgs.pdf)]. These problems becomes even more complex when considering thousands of chemical species within these turbulent flows, which further increases the computational complexity of the problem. Here, my research addresses these issues by employing AI/ML to replace costly aspects of computation.
+
+From an AI/ML perspective, these problems pose interesting challenges due to the relative lack of accessible data, especially when compared to data-rich fields such as computer vision and NLP. Hence, much of my research attempts to address the sparsity of real-world data. This can involve simple solutions such as embedding classification models with well-tested analytic reduced-orders [[<ins>info</ins>](http://ceur-ws.org/Vol-2964/article_196.pdf)], instead of purely regresssing with ML. This can also involve a more involved tasks such as curating terabytes of data as a brute-force approach to addressing these gaps [[<ins>info</ins>](https://openreview.net/pdf?id=LxGTZM7L6qn)]. 
+
 ## Click on my Selected Publications<sup>*</sup>
 
 [<i class="fa-solid fa-file-pdf"></i> P. Sharma, W.T. Chung, B. Akoush, M. Ihme. A Review of Physics-informed ML in Fluid Mechanics. _Energies_ 16(5):2343, 2023.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/sharma2023physics.pdf)
