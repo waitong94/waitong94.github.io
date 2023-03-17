@@ -1,9 +1,9 @@
 ## About Me
-I'm a PhD Student at Stanford University (advised by [<span style="color:blue">Prof. Matthias Ihme</span>](https://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/)). I'm also a Graduate Fellow at the [<span style="color:blue">Stanford Institute for Human-Centered AI</span>](https://hai.stanford.edu/), and have affiliations with the [<span style="color:blue">Predictive Science Academic Alliance Program</span>](https://insieme.stanford.edu/) and [<span style="color:blue">Flow Physics and Computational Engineering Group/span>](https://web.stanford.edu/group/fpc/cgi-bin/fpcwiki/).
+I'm a PhD Student at Stanford University (advised by [<span style="color:blue">Prof. Matthias Ihme</span>](https://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/)). I'm also a Graduate Fellow at the [<span style="color:blue">Stanford Institute for Human-Centered AI</span>](https://hai.stanford.edu/), and have affiliations with the [<span style="color:blue">Predictive Science Academic Alliance Program</span>](https://insieme.stanford.edu/) and [<span style="color:blue">Flow Physics and Computational Engineering Group</span>](https://web.stanford.edu/group/fpc/cgi-bin/fpcwiki/).
 
 My research improves our scientific understanding of rocket propulsion and novel energy systems with **Machine Learning**, **AI for Science**, and **High-Performance Computing** techniques. 
 
-I've also curated terabytes of high-fidelity 3D fluid data at [[<ins>https://blastnet.github.io/</ins>](https://blastnet.github.io/)].
+I've also curated terabytes of high-fidelity 3D fluid data at [[<span style="color:blue">https://blastnet.github.io/</span>](https://blastnet.github.io/)].
 
 Check out my [<span style="color:blue">CV</span>](WTChung_CV_2023.pdf) for more detailed info.
 
