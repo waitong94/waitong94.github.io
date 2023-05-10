@@ -9,7 +9,7 @@ Check out my [<span style="color:blue">CV</span>](WTChung_CV_2023.pdf) for more 
 
 ## Research Overview
 
-My research at Stanford involves exploring the application of **AI/ML** in solving complex problems in **turbulent reacting flows**. These phenomena have significant implications for critical applications such as **rocket propulsion**, **wildfires**, and **energy systems**. This field of work not only improves our understanding of these important phenomena (tied to **space exploration** and **climate change**), but also presents exciting technical challenges within the **computational sciences**.
+My research at Stanford involves exploring the application of **AI/ML** in solving complex problems in **turbulent reacting flows**. These phenomena have significant implications for critical applications such as **rocket propulsion, wildfires**, and **energy systems**. This field of work not only improves our understanding of these important phenomena (tied to **space exploration** and **climate change**), but also presents exciting technical challenges within the **computational sciences**.
 
 In particular, my research focuses on two core themes:
 
