@@ -5,7 +5,7 @@ My research improves our understanding of the science behind **rocket propulsion
 
 I've also curated terabytes of high-fidelity 3D fluid data at [[<span style="color:blue">https://blastnet.github.io/</span>](https://blastnet.github.io/)].
 
-Check out my [<span style="color:blue">CV</span>](./assets/WTChung_CV_2023.pdf) for more detailed info.
+Check out my [<span style="color:blue">CV</span>](./WTChung_CV_2023.pdf) for more detailed info.
 
 ## Research Overview
 
@@ -49,7 +49,7 @@ From an AI/ML perspective, new domains (such as in the sciences) can pose intere
 
 <!-- [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, P.C. Ma, M. Ihme. Examination of Diesel Spray Combustion in Supercritical Ambient Fluid using Large-eddy Simulations, _Int. J. Engine Res._ 21(1):122–133, 2020.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2019examination.pdf)  -->
 
-_<sup>*</sup>See my [<span style="color:blue">Google Scholar</span>](https://scholar.google.com/citations?user=LgFfklwAAAAJ&hl=en) or my [<span style="color:blue">CV</span>](./assets/WTChung_CV_2023.pdf) for a complete list._
+_<sup>*</sup>See my [<span style="color:blue">Google Scholar</span>](https://scholar.google.com/citations?user=LgFfklwAAAAJ&hl=en) or my [<span style="color:blue">CV</span>](./WTChung_CV_2023.pdf) for a complete list._
 
 ## Acknowledgments
 I am grateful to my research collaborators at Stanford, SLAC, TUM, NASA, LLNL, Sandia, UniMelb, UConn, and PolyMontréal. 
