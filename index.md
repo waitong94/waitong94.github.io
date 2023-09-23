@@ -5,7 +5,7 @@ My research improves our understanding of the science behind **rocket propulsion
 
 I've also curated terabytes of high-fidelity 3D fluid data at [[<span style="color:blue">https://blastnet.github.io/</span>](https://blastnet.github.io/)].
 
-Check out my [<span style="color:blue">CV</span>](WTChung_CV_2023.pdf) for more detailed info.
+Check out my [<span style="color:blue">CV</span>](./assets/WTChung_CV_2023.pdf) for more detailed info.
 
 ## Research Overview
 
@@ -22,6 +22,8 @@ Solving turbulence remains one of the grand challenges in classical physics and 
 From an AI/ML perspective, new domains (such as in the sciences) can pose interesting challenges that arise from their relative lack of accessible data, especially when compared to data-rich fields such as computer vision and NLP. Hence, much of my research attempts to address the **sparsity of data** in new areas of AI/ML research. This can involve hybrid approaches (instead of solely relying on pure regression) such as embedding classification models with interpretable symbolic models, which limits AI/ML errors [[<span style="color:blue">info</span>](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021data.pdf)]. This can also involve brute-force approaches such as **curating terabytes of 3D data** for directly addressing these gaps [[<span style="color:blue">info</span>](https://openreview.net/pdf?id=LxGTZM7L6qn)]. 
 
 ## Click on my Selected Publications<sup>*</sup>
+
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, B. Akoush, P. Sharma, A. Tamkin, K.S. Jung, J.H. Chen, J. Guo, D. Brouzet, M. Talei, B. Savard, A.Y. Poludnenko, M. Ihme. Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data. , 2023. P. Sharma, W.T. Chung, B. Akoush, M. Ihme. A Review of Physics-informed ML in Fluid Mechanics. _Advances in Neural Information Processing Systems (NeurIPS)_ 36, 2023.](./assets/chung2023_neurips_preprint.pdf)
 
 [<i class="fa-solid fa-file-pdf"></i> P. Sharma, W.T. Chung, B. Akoush, M. Ihme. A Review of Physics-informed ML in Fluid Mechanics. _Energies_ 16(5):2343, 2023.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/sharma2023physics.pdf)
 
@@ -47,7 +49,7 @@ From an AI/ML perspective, new domains (such as in the sciences) can pose intere
 
 <!-- [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, P.C. Ma, M. Ihme. Examination of Diesel Spray Combustion in Supercritical Ambient Fluid using Large-eddy Simulations, _Int. J. Engine Res._ 21(1):122–133, 2020.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2019examination.pdf)  -->
 
-_<sup>*</sup>See my [<span style="color:blue">Google Scholar</span>](https://scholar.google.com/citations?user=LgFfklwAAAAJ&hl=en) or my [<span style="color:blue">CV</span>](WTChung_CV_2023.pdf) for a complete list._
+_<sup>*</sup>See my [<span style="color:blue">Google Scholar</span>](https://scholar.google.com/citations?user=LgFfklwAAAAJ&hl=en) or my [<span style="color:blue">CV</span>](./assets/WTChung_CV_2023.pdf) for a complete list._
 
 ## Acknowledgments
 I am grateful to my research collaborators at Stanford, SLAC, TUM, NASA, LLNL, Sandia, UniMelb, UConn, and PolyMontréal. 
