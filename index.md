@@ -25,19 +25,19 @@ From an AI/ML perspective, new domains (such as in the sciences) can pose intere
 
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, B. Akoush, P. Sharma, A. Tamkin, K.S. Jung, J.H. Chen, J. Guo, D. Brouzet, M. Talei, B. Savard, A.Y. Poludnenko, M. Ihme. Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data. _Advances in Neural Information Processing Systems (NeurIPS)_ 36, 2023.](./assets/chung2023_neurips_preprint.pdf)
 
-[<i class="fa-solid fa-file-pdf"></i> P. Sharma, W.T. Chung, B. Akoush, M. Ihme. A Review of Physics-informed ML in Fluid Mechanics. _Energies_ 16(5):2343, 2023.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/sharma2023physics.pdf)
+[<i class="fa-solid fa-file-pdf"></i> P. Sharma, W.T. Chung, B. Akoush, M. Ihme. A Review of Physics-informed ML in Fluid Mechanics. _Energies_ 16(5):2343, 2023.](./assets/sharma2023physics.pdf)
 
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, K.S. Jung, J.H. Chen, M. Ihme. The Bearable Lightness of Big Data: Towards Massive Public Datasets in Scientific Machine Learning. In _ICML AI Sci. W. (ICML AI4Science)_, 2022.](https://openreview.net/pdf?id=LxGTZM7L6qn)
 
 
 [<i class="fa-solid fa-file-pdf"></i> D.D. Wu, W.T. Chung, M. Ihme. ML4LM: Machine Learning for Safely Landing on Mars. In: _NeurIPS Mach. Learn. Phys. Sci. W. (NeurIPS ML4PS)_, 2022.](https://ml4physicalsciences.github.io/2022/files/NeurIPS_ML4PS_2022_110.pdf)
 
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, K.S. Jung, J.H. Chen & M. Ihme. BLASTNet: A Call for Community-Involved Big Data in Combustion Machine Learning. _Appl. Energy Combust. Sci. 12:100087_, 2022.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2022blastnet.pdf)
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, K.S. Jung, J.H. Chen & M. Ihme. BLASTNet: A Call for Community-Involved Big Data in Combustion Machine Learning. _Appl. Energy Combust. Sci. 12:100087_, 2022.](./assets/chung2022blastnet.pdf)
 
 
-[<i class="fa-solid fa-file-pdf"></i> M. Ihme, W.T. Chung, A.A. Mishra. Combustion Machine Learning: Principles, Progress, and Prospects, _Prog. Energy Combust. Sci._ 91:101010, 2022.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/ihme2022ml.pdf)
+[<i class="fa-solid fa-file-pdf"></i> M. Ihme, W.T. Chung, A.A. Mishra. Combustion Machine Learning: Principles, Progress, and Prospects, _Prog. Energy Combust. Sci._ 91:101010, 2022.](./assets/ihme2022ml.pdf)
 
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra,  M. Ihme. Interpretable Data-driven Methods for Subgrid-scale Closure in LES for Transcritical LOX/GCH4 Combustion, _Combust. Flame_ 239:111758, 2022.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021sgs.pdf) 
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra,  M. Ihme. Interpretable Data-driven Methods for Subgrid-scale Closure in LES for Transcritical LOX/GCH4 Combustion, _Combust. Flame_ 239:111758, 2022.](./assets/chung2021sgs.pdf) 
 
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme. Accelerating High-fidelity Combustion Simulations with Classification Algorithms. In: _Proc. AAAI Spring Symp. Combin. Artif. Intell. Mach. Learn. Phys. Sci. (AAAI MLPS)_, 2021.](http://ceur-ws.org/Vol-2964/article_196.pdf)
 
