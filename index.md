@@ -42,7 +42,7 @@ From an AI/ML perspective, new domains (such as in the sciences) can pose intere
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme. Accelerating High-fidelity Combustion Simulations with Classification Algorithms. In: _Proc. AAAI Spring Symp. Combin. Artif. Intell. Mach. Learn. Phys. Sci. (AAAI MLPS)_, 2021.](http://ceur-ws.org/Vol-2964/article_196.pdf)
 
     
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme. Data-assisted Combustion Simulations with Dynamic Submodel Assignment using Random Forests, _Combust. Flame_  227:172-185, 2021.](http://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/wp-content/papercite-data/pdf/chung2021data.pdf) 
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme. Data-assisted Combustion Simulations with Dynamic Submodel Assignment using Random Forests, _Combust. Flame_  227:172-185, 2021.](./assets/chung2021data.pdf) 
 
 
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, A.A. Mishra, N. Perakis, M. Ihme. Random Forests for Accelerating Turbulent Combustion Simulations. In: _NeurIPS Mach. Learn. Phys. Sci. Workshop (NeurIPS ML4PS)_, 2020](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_81.pdf)
