@@ -23,7 +23,7 @@ From an AI/ML perspective, new domains (such as in the sciences) can pose intere
 
 ## Click on my Selected Publications<sup>*</sup>
 
-[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, B. Akoush, P. Sharma, A. Tamkin, K.S. Jung, J.H. Chen, J. Guo, D. Brouzet, M. Talei, B. Savard, A.Y. Poludnenko, M. Ihme. Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data. _Adv. Neural Inf. Process. Syst. (NeurIPS)_ 36, 2023.](./assets/chung2023_neurips_preprint.pdf)
+[<i class="fa-solid fa-file-pdf"></i> W.T. Chung, B. Akoush, P. Sharma, A. Tamkin, K.S. Jung, J.H. Chen, J. Guo, D. Brouzet, M. Talei, B. Savard, A.Y. Poludnenko, M. Ihme. Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data. _Adv. Neural Inf. Process. Syst. (NeurIPS)_ 36, 2023.](./assets/chung2023_neurips_preprint.pdf) [[<span style="color:blue">Press</span>](https://hai.stanford.edu/news/blastnet-first-large-machine-learning-dataset-fundamental-fluid-dynamics)]
 
 [<i class="fa-solid fa-file-pdf"></i> P. Sharma, W.T. Chung, B. Akoush, M. Ihme. A Review of Physics-informed ML in Fluid Mechanics. _Energies_ 16(5):2343, 2023.](./assets/sharma2023physics.pdf)
 
