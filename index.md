@@ -1,7 +1,8 @@
 ## About Me
-I'm a PhD Student at Stanford University (advised by [<span style="color:blue">Prof. Matthias Ihme</span>](https://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/)). I was also a Graduate Fellow ('23) at the [<span style="color:blue">Stanford Institute for Human-Centered AI</span>](https://hai.stanford.edu/), and have affiliations with the [<span style="color:blue">Center for Open and REproducible Science</span>](https://datascience.stanford.edu/cores), [<span style="color:blue">Predictive Science Academic Alliance Program</span>](https://insieme.stanford.edu/), and [<span style="color:blue">Stanford Flow Physics and Computational Engineering Group</span>](https://web.stanford.edu/group/fpc/cgi-bin/fpcwiki/).
 
-My research improves our understanding of the science behind **rocket propulsion** and **novel energy systems** with **Machine Learning**, **AI for Science**, and **High-Performance Computing** techniques. 
+I graduated with a PhD at Stanford University (advised by [<span style="color:blue">Prof. Matthias Ihme</span>](https://web.stanford.edu/group/ihmegroup/cgi-bin/MatthiasIhme/)). I was also a Graduate Fellow ('23) at the [<span style="color:blue">Stanford Institute for Human-Centered AI</span>](https://hai.stanford.edu/), and have affiliations with the [<span style="color:blue">Center for Open and REproducible Science</span>](https://datascience.stanford.edu/cores), [<span style="color:blue">Predictive Science Academic Alliance Program</span>](https://insieme.stanford.edu/), and [<span style="color:blue">Stanford Flow Physics and Computational Engineering Group</span>](https://web.stanford.edu/group/fpc/cgi-bin/fpcwiki/).
+
+My thesis focused on improving our understanding of the science behind **rocket propulsion** and **novel energy systems** with **Machine Learning**, **AI for Science**, and **High-Performance Computing** techniques. 
 
 I've also curated terabytes of high-fidelity 3D fluid data at [[<span style="color:blue">https://blastnet.github.io/</span>](https://blastnet.github.io/)].
 
@@ -9,9 +10,9 @@ Check out my [<span style="color:blue">CV</span>](./WTChung_CV_2023.pdf) for mor
 
 ## Research Overview
 
-My research at Stanford involves exploring the application of **AI/ML** in solving complex problems in **turbulent reacting flows**. These phenomena have significant implications for critical applications such as **rocket propulsion**, **wildfires**, and **energy systems**. This field of work not only improves our understanding of these important phenomena (tied to **space exploration** and **climate change**), but also presents exciting technical challenges within the **computational sciences**.
+My research at Stanford involved exploring the application of **AI/ML** in solving complex problems in **turbulent reacting flows**. These phenomena have significant implications for critical applications such as **rocket propulsion**, **wildfires**, and **energy systems**. This field of work not only improves our understanding of these important phenomena (tied to **space exploration** and **climate change**), but also presents exciting technical challenges within the **computational sciences**.
 
-In particular, my research focuses on two core themes:
+In particular, my research has focused on two core themes:
 
 **1. Building accurate and cost-efficient predictive models for/with large-scale computing systems:**
 
