@@ -7,7 +7,7 @@ My thesis focused on improving our understanding of **flow physics** and **energ
 
 I've also curated terabytes of high-fidelity 3D fluid data at [[<span style="color:blue">https://blastnet.github.io/</span>](https://blastnet.github.io/)].
 
-Check out my [<span style="color:blue">CV</span>](./WTChung_CV_2023.pdf) for more detailed info.
+Check out my [<span style="color:blue">CV</span>](./assets/WTChung_CV_2025.pdf) for more detailed info.
 
 ## Research Overview
 
@@ -20,7 +20,7 @@ During my PhD, I explored the use of **scientific machine learning** and **high 
 
 ## Click on my Selected Publications<sup>*</sup>
 
-[<i class="fa-solid fa-globe"></i> M Ihme<sup>&dagger;</sup>, W.T. Chung<sup>&dagger;</sup>. Artificial Intelligence as a Catalyst for Combustion Science and Engineering<sup>&Dagger;</sup>. Accepted in *Proc. Combust. Inst.* 40, 2024. (<sup>&dagger;</sup>*Equal Contribution*. <sup>&Dagger;</sup>Presented as a plenary lecture at the 40<sup>th</sup> International Symposium on Combustion, Milan, 2024.]([./assets/sharma2023physics.pdf](https://www.sciencedirect.com/science/article/abs/pii/S1540748924005388))
+[<i class="fa-solid fa-file-pdf"></i> M Ihme<sup>&dagger;</sup>, W.T. Chung<sup>&dagger;</sup>. Artificial Intelligence as a Catalyst for Combustion Science and Engineering<sup>&Dagger;</sup>. Accepted in *Proc. Combust. Inst.* 40, 2024. (<sup>&dagger;</sup>*Equal Contribution*. <sup>&Dagger;</sup>Presented as a plenary lecture at the 40<sup>th</sup> International Symposium on Combustion, Milan, 2024.](./assets/ihme2024ai.pdf))
 
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, B. Akoush, P. Sharma, A. Tamkin, K.S. Jung, J.H. Chen, J. Guo, D. Brouzet, M. Talei, B. Savard, A.Y. Poludnenko, M. Ihme. Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data. _Adv. Neural Inf. Process. Syst. (NeurIPS)_ 36, 2023.](https://openreview.net/pdf?id=ugRnHKMK95) [[<span style="color:blue">Press</span>](https://hai.stanford.edu/news/blastnet-first-large-machine-learning-dataset-fundamental-fluid-dynamics)]
 
