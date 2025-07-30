@@ -11,7 +11,7 @@ Check out my [<span style="color:blue">CV</span>](./assets/WTChung_CV_2025.pdf) 
 
 ## Research Overview
 
-I love  and improving **large-scale computational systems** and models that can help solve our biggest problems. 
+I love improving **large-scale computational systems** and models that can help solve our biggest problems. 
 
 Currently, I am focused on building efficient and intelligent AI systems that can solve problems in industry. Some of my work has resulted in the fastest inference of open-weight large language models such as DeepSeek-R1 [[<span style="color:blue">info</span>](https://www.together.ai/blog/customized-speculative-decoding)]. 
 
