@@ -13,14 +13,16 @@ Check out my [<span style="color:blue">CV</span>](./assets/WTChung_CV_2025.pdf) 
 
 I love improving **large-scale computational systems** and models that can help solve our biggest problems. 
 
-Currently, I am focused on building efficient and intelligent AI systems that can solve problems in industry. Some of my work has resulted in the fastest inference of open-weight large language models such as DeepSeek-R1 [[<span style="color:blue">info</span>](https://www.together.ai/blog/customized-speculative-decoding)]. 
+Currently, I am focused on building efficient and intelligent AI systems that can solve problems in industry. Some of my work has resulted in the fastest inference of open-weight large language models such as DeepSeek-R1 [[<span style="color:blue">info</span>](https://www.together.ai/blog/fastest-inference-for-deepseek-r1-0528-with-nvidia-hgx-b200)]. 
 
 During my PhD, I explored the use of **scientific machine learning** and **high performance computing** for building predicitve modeling systems  in **space exploration**, **climate**, and **efficient energy systems** [[<span style="color:blue">info</span>](./assets/WTChungPhDDissertation5June2024-augmented.pdf)].
 
 
 ## Click on my Selected Publications<sup>*</sup>
 
-[<i class="fa-solid fa-file-pdf"></i> M Ihme<sup>&dagger;</sup>, W.T. Chung<sup>&dagger;</sup>. Artificial Intelligence as a Catalyst for Combustion Science and Engineering<sup>&Dagger;</sup>. Accepted in *Proc. Combust. Inst.* 40, 2024. (<sup>&dagger;</sup>*Equal Contribution*. <sup>&Dagger;</sup>Presented as a plenary lecture at the 40<sup>th</sup> International Symposium on Combustion, Milan, 2024.](./assets/ihme2024ai.pdf))
+[<i class="fa-solid fa-file-pdf"></i> B. Akoush, G. Vignat, R. Finley,  W.T. Chung, M. Ihme.  Deep Reinforcement Learning for Adaptive Control of Thermoacoustic Instabilities in a Lean-Premixed Methane/Hydrogen/Air Combustor. Combust. Flame 282(1-4):105730, 2025.](./assets/akoush2025rl.pdf)
+
+[<i class="fa-solid fa-file-pdf"></i> M Ihme<sup>&dagger;</sup>, W.T. Chung<sup>&dagger;</sup>. Artificial Intelligence as a Catalyst for Combustion Science and Engineering<sup>&Dagger;</sup>. *Proc. Combust. Inst.* 40(1-4):105730, 2024. (<sup>&dagger;</sup>*Equal Contribution*. <sup>&Dagger;</sup>Presented as a plenary lecture at the 40<sup>th</sup> International Symposium on Combustion, Milan, 2024.)](./assets/ihme2024ai.pdf)
 
 [<i class="fa-solid fa-file-pdf"></i> W.T. Chung, B. Akoush, P. Sharma, A. Tamkin, K.S. Jung, J.H. Chen, J. Guo, D. Brouzet, M. Talei, B. Savard, A.Y. Poludnenko, M. Ihme. Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data. _Adv. Neural Inf. Process. Syst. (NeurIPS)_ 36, 2023.](https://openreview.net/pdf?id=ugRnHKMK95) [[<span style="color:blue">Press</span>](https://hai.stanford.edu/news/blastnet-first-large-machine-learning-dataset-fundamental-fluid-dynamics)]
 
