@@ -1,5 +1,7 @@
 ## About Me
-I'm currently working as an AI researcher at [<span style="color:blue">Together AI</span>](https://www.together.ai/research), where I am investigating pre- and post-training methods for **language models** in **inference optimization** and **agentic applications**.
+I'm an AI researcher and engineer working on large-scale training, post-training, and inference systems for language models and AI agents.
+
+I work at Amazon, where I developed model recipes and distributed infrastructure for continued pre-training, supervised fine-tuning, and reinforcement learning. Previously, I was an AI researcher at [<span style="color:blue">Together AI</span>](https://www.together.ai/research), where I worked on inference optimization, speculative decoding, and agentic applications for open-weight la
 
 I graduated with a PhD at Stanford University (advised by [<span style="color:blue">Prof. Matthias Ihme</span>](https://ihmegroup.github.io/people/)). I was also a Graduate Fellow ('23) at the [<span style="color:blue">Stanford Institute for Human-Centered AI</span>](https://hai.stanford.edu/), and have affiliations with the [<span style="color:blue">Center for Open and REproducible Science</span>](https://datascience.stanford.edu/cores), [<span style="color:blue">Predictive Science Academic Alliance Program</span>](https://insieme.stanford.edu/), and [<span style="color:blue">Stanford Flow Physics and Computational Engineering Group</span>](https://web.stanford.edu/group/fpc/cgi-bin/fpcwiki/).
 
@@ -7,7 +9,7 @@ My thesis focused on improving our understanding of **flow physics** and **energ
 
 I've also curated terabytes of high-fidelity 3D fluid data at [[<span style="color:blue">https://blastnet.github.io/</span>](https://blastnet.github.io/)].
 
-Check out my [<span style="color:blue">CV</span>](./assets/WTChung_CV_2025.pdf) for more detailed info.
+Check out my [<span style="color:blue">CV</span>](./assets/WTChung_CV_2026.pdf) for more detailed info.
 
 ## Research Overview
 
@@ -19,6 +21,9 @@ During my PhD, I explored the use of **scientific machine learning** and **high 
 
 
 ## Click on my Selected Publications<sup>*</sup>
+
+[<i class="fa-solid fa-file-pdf"></i> C.-A. Oncescu, Q. Wu, W.T. Chung, R. Wu, B. Gopal, J. Wang, T. Dao, B. Athiwaratkun. Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining. *Int. Conf. Mach. Learn.*, 2026.](./assets/costin2026icml.pdf)
+
 
 [<i class="fa-solid fa-file-pdf"></i> B. Akoush, G. Vignat, R. Finley,  W.T. Chung, M. Ihme.  Deep Reinforcement Learning for Adaptive Control of Thermoacoustic Instabilities in a Lean-Premixed Methane/Hydrogen/Air Combustor. Combust. Flame 282(1-4):105730, 2025.](./assets/akoush2025rl.pdf)
 
