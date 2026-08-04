@@ -1,7 +1,7 @@
 ## About Me
 I'm an AI researcher and engineer working on large-scale training, post-training, and inference systems for language models and AI agents.
 
-I work at Amazon, where I developed model recipes and distributed infrastructure for continued pre-training, supervised fine-tuning, and reinforcement learning. Previously, I was an AI researcher at [<span style="color:blue">Together AI</span>](https://www.together.ai/research), where I worked on inference optimization, speculative decoding, and agentic applications for open-weight la
+I work at Amazon, where I developed model recipes and distributed infrastructure for continued pre-training, supervised fine-tuning, and reinforcement learning. Previously, I was an AI researcher at [<span style="color:blue">Together AI</span>](https://www.together.ai/research), where I worked on inference optimization, speculative decoding, and agentic applications for open-weight large language models.
 
 I graduated with a PhD at Stanford University (advised by [<span style="color:blue">Prof. Matthias Ihme</span>](https://ihmegroup.github.io/people/)). I was also a Graduate Fellow ('23) at the [<span style="color:blue">Stanford Institute for Human-Centered AI</span>](https://hai.stanford.edu/), and have affiliations with the [<span style="color:blue">Center for Open and REproducible Science</span>](https://datascience.stanford.edu/cores), [<span style="color:blue">Predictive Science Academic Alliance Program</span>](https://insieme.stanford.edu/), and [<span style="color:blue">Stanford Flow Physics and Computational Engineering Group</span>](https://web.stanford.edu/group/fpc/cgi-bin/fpcwiki/).
 
