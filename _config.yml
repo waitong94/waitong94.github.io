@@ -1,5 +1,8 @@
-remote_theme: BDHU/minimalist
-color-scheme: auto/light
+remote_theme: BDHU/minimalist@870396c
+theme: null
+plugins:
+  - jekyll-remote-theme
+color-scheme: light
 title: Wai Tong Chung
 description: AI Research Scientist
 logo: ./assets/profile_round.png
@@ -8,17 +11,17 @@ sidebar:
     icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
     link: https://scholar.google.com/citations?user=LgFfklwAAAAJ
   - name: Twitter
-    icon: <i class="fa-brands fa-twitter"></i>
+    icon: <i class="fab fa-twitter"></i>
     link: https://twitter.com/wt_chung
   - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
+    icon: <i class="fab fa-linkedin"></i>
     link: https://www.linkedin.com/in/wai-tong-chung-a5111067/
   - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
+    icon: <i class="fab fa-github"></i>
     link: https://github.com/waitong94
   - name: Curriculum Vitae
-    icon: <i class="fa-solid fa-file-pdf"></i> 
+    icon: <i class="fas fa-file-pdf"></i> 
     link: ./assets/WTChung_CV_2026.pdf
   - name: Email
-    icon: <i class="fa-solid fa-envelope"></i>
+    icon: <i class="fas fa-envelope"></i>
     link: mailto:wt.chung94@gmail.com
