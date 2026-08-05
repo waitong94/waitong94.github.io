@@ -17,7 +17,7 @@ I love improving **large-scale computational systems** and models that can help 
 
 Currently, I am focused on building efficient and intelligent AI systems that can solve problems in industry. Some of my work has resulted in the fastest inference of open-weight large language models such as DeepSeek-R1 [[<span style="color:blue">info</span>](https://www.together.ai/blog/fastest-inference-for-deepseek-r1-0528-with-nvidia-hgx-b200)]. 
 
-During my PhD, I explored the use of **scientific machine learning** and **high performance computing** for building predicitve modeling systems  in **space exploration**, **climate**, and **efficient energy systems** [[<span style="color:blue">info</span>](./assets/WTChungPhDDissertation5June2024-augmented.pdf)].
+During my PhD, I explored the use of scientific machine learning and high performance computing for building predicitve modeling systems  in space exploration, climate, and efficient energy systems [[<span style="color:blue">info</span>](./assets/WTChungPhDDissertation5June2024-augmented.pdf)].
 
 
 ## Click on my Selected Publications<sup>*</sup>
